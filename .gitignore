@@ -1,0 +1,12 @@
+# Virtual Environment
+/venv
+
+# ไฟล์ที่ถูกสร้างขึ้นอัตโนมัติ
+/faiss_index/
+/processed_files.log
+/__pycache__/
+*.pyc
+
+# ไฟล์ Zip และ Log
+*.zip
+*.log
